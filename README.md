@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm HWANG YOONJIN</h1>
+<h1 align="left">Hi 👋, I'm Yoonjin Hwang </h1>
 <h3 align="left">A passionate back-end developer</h3>
 
 - 🌱 I’m currently learning **SpringBoot,node.js**
